@@ -18,7 +18,7 @@ namespace CSDL_Test
 
         public void KetNoi_Dulieu()
         {
-            string strKetNoi = @"Data Source=LAPTOP-0F0PHERC\SQLEXPRESS;Initial Catalog=QLNS_QLLUONG;Integrated Security=True";
+            string strKetNoi = @"Data Source=101.96.66.219,8013;Initial Catalog=QLNS_QLLUONG;Persist Security Info=True;User ID=sa;Password=Admin1234";
             cnn = new SqlConnection(strKetNoi);
             cnn.Open();
         }
