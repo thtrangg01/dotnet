@@ -1,0 +1,16 @@
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\bin\Debug\CSDL_Test.exe.config
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\bin\Debug\CSDL_Test.exe
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\bin\Debug\CSDL_Test.pdb
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.Form1.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.FrmLogin.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.Properties.Resources.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.csproj.GenerateResource.cache
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.csproj.CoreCompileInputs.cache
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.exe
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.pdb
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.FrmPhongBan.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.FrmChucVu.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.csproj.AssemblyReference.cache
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.FrmNhanVien.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.FrmTimKiem.resources
+D:\code\dotnet\bai2\CSDL_Test\CSDL_Test\obj\Debug\CSDL_Test.FrmTimKiem2.resources
